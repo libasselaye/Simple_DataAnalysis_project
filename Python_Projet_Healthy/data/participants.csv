@@ -1,0 +1,21 @@
+﻿identifier,Gender,handedness,class age ,started hand ,inclusion date,birth date (month/years)
+001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961
+002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960
+003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945
+004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948
+005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937
+006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996
+007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948
+008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941
+009BoAl,M,left,[75-84],dominant ,09/04/2021,11/1945
+010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953
+011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964
+012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941
+013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936
+014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949
+015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948
+016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941
+017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954
+018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941
+019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947
+020LeMa,F,right,[65-74],non dominant ,19/04/2021,

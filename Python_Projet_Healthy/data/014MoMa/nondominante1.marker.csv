@@ -1,0 +1,26 @@
+screenWidth 1104;screenHeight 661;cornerX 302;cornerY 80;centerX 552;centerY 330;externalRadius 250;internalRadius 170;borderRadius 1;cursorRadius 16;indexOfDifficulty 28.00696429476858;taskRadius 209.5;taskTolerance 47;borderColor java.awt.Color[r=255,g=255,b=255];backgroundColor java.awt.Color[r=0,g=0,b=0];cursorColorRecord java.awt.Color[r=255,g=0,b=0];cursorColorWait java.awt.Color[r=255,g=255,b=0];autoStart 3600;cycleMaxNumber 6;cycleDuration 20;software LSL-mouse;version 1.2.0rc5;task CircularTarget;isWithLSL false
+2021-04-14 10:51:00.364
+
+2021-04-14 10:51:12.870,1618390272870,KeyTyped=32 DoCycleChange
+2021-04-14 10:51:12.872,1618390272872,DoCycleChange:DoStartCycleTimedSequence
+2021-04-14 10:51:12.873,1618390272873,DoCycleChange:DoRecord RecordDone=0 PauseDone=0 ToDo=6
+2021-04-14 10:51:32.885,1618390292885,DoCycleChange:DoPause RecordDone=1 PauseDone=0 ToDo=6
+2021-04-14 10:51:52.888,1618390312888,DoCycleChange:DoRecord RecordDone=1 PauseDone=1 ToDo=6
+2021-04-14 10:52:12.892,1618390332892,DoCycleChange:DoPause RecordDone=2 PauseDone=1 ToDo=6
+2021-04-14 10:52:32.912,1618390352912,DoCycleChange:DoRecord RecordDone=2 PauseDone=2 ToDo=6
+2021-04-14 10:52:52.927,1618390372927,DoCycleChange:DoPause RecordDone=3 PauseDone=2 ToDo=6
+2021-04-14 10:53:12.942,1618390392942,DoCycleChange:DoRecord RecordDone=3 PauseDone=3 ToDo=6
+2021-04-14 10:53:32.947,1618390412947,DoCycleChange:DoPause RecordDone=4 PauseDone=3 ToDo=6
+2021-04-14 10:53:52.957,1618390432957,DoCycleChange:DoRecord RecordDone=4 PauseDone=4 ToDo=6
+2021-04-14 10:54:12.968,1618390452968,DoCycleChange:DoPause RecordDone=5 PauseDone=4 ToDo=6
+2021-04-14 10:54:18.795,1618390458795,KeyTyped=113 WINDOW_CLOSING
+2021-04-14 10:54:18.798,1618390458798,
+    Var , nLaps ,      Re ,      Te ,   error ,  MT/lap , IDe/lap ,      Be ,     IPe ,
+   unit ,   lap ,   pixel ,   pixel ,       % ,   s/lap , bit/lap ,  double ,   bit/s ,
+ Theory ,  1.00 ,  209.50 ,   47.00 ,    3.88 ,         ,         ,    1.00 ,         ,
+ Rec001 , -7.18 ,  210.58 ,   36.84 ,    0.48 ,    2.79 ,   35.92 ,    0.78 ,   12.89 ,
+ Rec002 , -6.83 ,  210.07 ,   37.74 ,    1.27 ,    2.48 ,   34.98 ,    0.80 ,   14.11 ,
+ Rec003 , -9.27 ,  209.91 ,   49.82 ,    5.54 ,    1.95 ,   26.47 ,    1.06 ,   13.54 ,
+ Rec004 , -8.82 ,  208.54 ,   47.11 ,    7.11 ,    2.06 ,   27.81 ,    1.00 ,   13.51 ,
+ Rec005 , -7.97 ,  209.71 ,   42.53 ,    4.42 ,    2.28 ,   30.98 ,    0.90 ,   13.57 ,
+ Rec006 ,  0.00 ,    0.00 ,    0.00 ,     NaN ,     NaN ,     NaN ,    0.00 ,    0.00 ,

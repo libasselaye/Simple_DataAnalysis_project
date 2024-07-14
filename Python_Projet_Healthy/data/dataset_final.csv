@@ -1,0 +1,440 @@
+,identifier,Gender,handedness,class age ,started hand ,inclusion date,birth date (month/years),    Var ,     IPe ,filesource
+0,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec001 ,    7.94 ,dominante1.marker.csv
+1,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec002 ,   24.04 ,dominante1.marker.csv
+2,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec003 ,   21.40 ,dominante1.marker.csv
+3,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec004 ,   23.72 ,dominante1.marker.csv
+4,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec005 ,   23.20 ,dominante1.marker.csv
+5,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec006 ,    0.00 ,dominante1.marker.csv
+6,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec001 ,   18.73 ,nondominante1.marker.csv
+7,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec002 ,   12.95 ,nondominante1.marker.csv
+8,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec003 ,   15.33 ,nondominante1.marker.csv
+9,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec004 ,   15.28 ,nondominante1.marker.csv
+10,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec005 ,   16.41 ,nondominante1.marker.csv
+11,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec006 ,    0.00 ,nondominante1.marker.csv
+12,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec001 ,   16.08 ,dominante2.marker.csv
+13,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec002 ,   17.72 ,dominante2.marker.csv
+14,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec003 ,   20.81 ,dominante2.marker.csv
+15,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec004 ,   24.61 ,dominante2.marker.csv
+16,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec005 ,   22.48 ,dominante2.marker.csv
+17,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec006 ,    0.00 ,dominante2.marker.csv
+18,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec001 ,   13.85 ,nondominante2.marker.csv
+19,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec002 ,   15.56 ,nondominante2.marker.csv
+20,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec003 ,   16.30 ,nondominante2.marker.csv
+21,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec004 ,   13.61 ,nondominante2.marker.csv
+22,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec005 ,   16.40 ,nondominante2.marker.csv
+23,001MoDe,M,right,[55-64],dominant ,26/03/2021,06/1961, Rec006 ,    0.00 ,nondominante2.marker.csv
+24,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec001 ,   10.31 ,nondominante1.marker.csv
+25,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec002 ,   12.39 ,nondominante1.marker.csv
+26,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec003 ,   11.13 ,nondominante1.marker.csv
+27,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec004 ,   13.23 ,nondominante1.marker.csv
+28,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec005 ,   15.05 ,nondominante1.marker.csv
+29,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec006 ,    0.00 ,nondominante1.marker.csv
+30,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec001 ,   12.97 ,dominante1.marker.csv
+31,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec002 ,   19.22 ,dominante1.marker.csv
+32,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec003 ,   14.77 ,dominante1.marker.csv
+33,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec004 ,   14.32 ,dominante1.marker.csv
+34,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec005 ,   18.97 ,dominante1.marker.csv
+35,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec006 ,    0.00 ,dominante1.marker.csv
+36,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec001 ,   12.87 ,nondominante2.marker.csv
+37,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec002 ,   12.39 ,nondominante2.marker.csv
+38,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec003 ,   13.71 ,nondominante2.marker.csv
+39,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec004 ,   11.48 ,nondominante2.marker.csv
+40,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec005 ,   13.65 ,nondominante2.marker.csv
+41,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec006 ,    0.00 ,nondominante2.marker.csv
+42,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec001 ,   17.84 ,dominante2.marker.csv
+43,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec002 ,   15.41 ,dominante2.marker.csv
+44,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec003 ,   18.90 ,dominante2.marker.csv
+45,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec004 ,   20.59 ,dominante2.marker.csv
+46,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec005 ,   18.58 ,dominante2.marker.csv
+47,002VaAl,M,right,[55-64],non dominant,06/03/2021,03/1960, Rec006 ,    0.00 ,dominante2.marker.csv
+48,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec001 ,    8.27 ,dominante1.marker.csv
+49,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec002 ,    8.65 ,dominante1.marker.csv
+50,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec003 ,    8.60 ,dominante1.marker.csv
+51,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec004 ,    6.90 ,dominante1.marker.csv
+52,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec005 ,    9.28 ,dominante1.marker.csv
+53,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec006 ,    0.00 ,dominante1.marker.csv
+54,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec001 ,    9.68 ,nondominante1.marker.csv
+55,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec002 ,    9.89 ,nondominante1.marker.csv
+56,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec003 ,   10.04 ,nondominante1.marker.csv
+57,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec004 ,   12.92 ,nondominante1.marker.csv
+58,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec005 ,    8.50 ,nondominante1.marker.csv
+59,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec006 ,    0.00 ,nondominante1.marker.csv
+60,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec001 ,   10.92 ,nondominante2.marker.csv
+61,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec002 ,    8.07 ,nondominante2.marker.csv
+62,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec003 ,   10.04 ,nondominante2.marker.csv
+63,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec004 ,    9.67 ,nondominante2.marker.csv
+64,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec005 ,   10.54 ,nondominante2.marker.csv
+65,003LaRo,F,right,[75-84],dominant ,07/04/2021,08/1945, Rec006 ,    0.00 ,nondominante2.marker.csv
+66,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec001 ,    6.29 ,nondominante1.marker.csv
+67,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec002 ,    6.43 ,nondominante1.marker.csv
+68,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec003 ,    6.24 ,nondominante1.marker.csv
+69,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec004 ,    6.39 ,nondominante1.marker.csv
+70,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec005 ,    8.50 ,nondominante1.marker.csv
+71,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec006 ,    0.00 ,nondominante1.marker.csv
+72,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec001 ,    7.22 ,dominante1.marker.csv
+73,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec002 ,    9.84 ,dominante1.marker.csv
+74,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec003 ,   10.06 ,dominante1.marker.csv
+75,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec004 ,   10.41 ,dominante1.marker.csv
+76,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec005 ,   13.25 ,dominante1.marker.csv
+77,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec006 ,    0.00 ,dominante1.marker.csv
+78,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec001 ,    6.80 ,nondominante2.marker.csv
+79,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec002 ,    6.17 ,nondominante2.marker.csv
+80,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec003 ,    7.03 ,nondominante2.marker.csv
+81,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec004 ,    5.04 ,nondominante2.marker.csv
+82,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec005 ,    7.46 ,nondominante2.marker.csv
+83,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec006 ,    0.00 ,nondominante2.marker.csv
+84,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec001 ,   13.08 ,dominante2.marker.csv
+85,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec002 ,   11.48 ,dominante2.marker.csv
+86,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec003 ,   11.76 ,dominante2.marker.csv
+87,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec004 ,   13.22 ,dominante2.marker.csv
+88,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec005 ,   10.85 ,dominante2.marker.csv
+89,004RoMa,F,right,[65-74],non dominant,07/04/2021,10/1948, Rec006 ,    0.00 ,dominante2.marker.csv
+90,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec001 ,    5.85 ,dominante1.marker.csv
+91,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec002 ,    5.08 ,dominante1.marker.csv
+92,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec003 ,    5.00 ,dominante1.marker.csv
+93,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec004 ,    8.42 ,dominante1.marker.csv
+94,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec005 ,    7.11 ,dominante1.marker.csv
+95,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec006 ,    0.00 ,dominante1.marker.csv
+96,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec001 ,    5.69 ,nondominante1.marker.csv
+97,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec002 ,    5.69 ,nondominante1.marker.csv
+98,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec003 ,    4.67 ,nondominante1.marker.csv
+99,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec004 ,    6.06 ,nondominante1.marker.csv
+100,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec005 ,    6.56 ,nondominante1.marker.csv
+101,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec006 ,    0.00 ,nondominante1.marker.csv
+102,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec001 ,    6.77 ,dominante2.marker.csv
+103,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec002 ,    6.85 ,dominante2.marker.csv
+104,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec003 ,    8.04 ,dominante2.marker.csv
+105,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec004 ,    8.70 ,dominante2.marker.csv
+106,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec005 ,   11.69 ,dominante2.marker.csv
+107,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec006 ,    0.00 ,dominante2.marker.csv
+108,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec001 ,    6.20 ,nondominante2.marker.csv
+109,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec002 ,    6.52 ,nondominante2.marker.csv
+110,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec003 ,    6.67 ,nondominante2.marker.csv
+111,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec004 ,    6.40 ,nondominante2.marker.csv
+112,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec005 ,    8.95 ,nondominante2.marker.csv
+113,005HoRo,M,right,[75-84],dominant ,07/04/2021,04/1937, Rec006 ,    0.00 ,nondominante2.marker.csv
+114,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec001 ,    7.25 ,nondominante1.marker.csv
+115,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec002 ,    7.80 ,nondominante1.marker.csv
+116,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec003 ,    7.75 ,nondominante1.marker.csv
+117,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec004 ,    6.41 ,nondominante1.marker.csv
+118,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec005 ,    8.15 ,nondominante1.marker.csv
+119,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec006 ,    0.00 ,nondominante1.marker.csv
+120,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec001 ,    8.83 ,dominante1.marker.csv
+121,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec002 ,   12.05 ,dominante1.marker.csv
+122,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec003 ,   12.46 ,dominante1.marker.csv
+123,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec004 ,    9.23 ,dominante1.marker.csv
+124,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec005 ,   12.38 ,dominante1.marker.csv
+125,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec006 ,    0.00 ,dominante1.marker.csv
+126,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec001 ,    7.26 ,nondominante2.marker.csv
+127,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec002 ,    8.63 ,nondominante2.marker.csv
+128,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec003 ,    8.90 ,nondominante2.marker.csv
+129,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec004 ,   10.48 ,nondominante2.marker.csv
+130,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec005 ,    7.99 ,nondominante2.marker.csv
+131,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec006 ,    0.00 ,nondominante2.marker.csv
+132,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec001 ,   11.25 ,dominante2.marker.csv
+133,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec002 ,   13.32 ,dominante2.marker.csv
+134,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec003 ,   15.70 ,dominante2.marker.csv
+135,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec004 ,   14.94 ,dominante2.marker.csv
+136,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec005 ,   17.56 ,dominante2.marker.csv
+137,006MuCa,F,right,[0-34],non dominant ,08/04/2021,04/1996, Rec006 ,    0.00 ,dominante2.marker.csv
+138,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec001 ,    9.43 ,dominante1.marker.csv
+139,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec002 ,    8.82 ,dominante1.marker.csv
+140,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec003 ,   12.00 ,dominante1.marker.csv
+141,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec004 ,   11.69 ,dominante1.marker.csv
+142,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec005 ,   11.68 ,dominante1.marker.csv
+143,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec006 ,    0.00 ,dominante1.marker.csv
+144,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec001 ,    8.52 ,nondominante1.marker.csv
+145,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec002 ,   10.36 ,nondominante1.marker.csv
+146,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec003 ,   11.50 ,nondominante1.marker.csv
+147,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec004 ,    9.94 ,nondominante1.marker.csv
+148,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec005 ,   10.13 ,nondominante1.marker.csv
+149,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec006 ,    0.00 ,nondominante1.marker.csv
+150,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec001 ,   12.59 ,dominante2.marker.csv
+151,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec002 ,    7.60 ,dominante2.marker.csv
+152,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec003 ,   10.54 ,dominante2.marker.csv
+153,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec004 ,   11.66 ,dominante2.marker.csv
+154,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec005 ,   13.12 ,dominante2.marker.csv
+155,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec006 ,    0.00 ,dominante2.marker.csv
+156,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec001 ,    8.85 ,nondominante2.marker.csv
+157,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec002 ,   11.97 ,nondominante2.marker.csv
+158,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec003 ,   11.07 ,nondominante2.marker.csv
+159,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec004 ,   11.71 ,nondominante2.marker.csv
+160,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec005 ,   11.51 ,nondominante2.marker.csv
+161,007CaMa,F,right,[65-74],dominant ,08/04/2021,12/1948, Rec006 ,    0.00 ,nondominante2.marker.csv
+162,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec001 ,    5.59 ,nondominante1.marker.csv
+163,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec002 ,    7.38 ,nondominante1.marker.csv
+164,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec003 ,    6.24 ,nondominante1.marker.csv
+165,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec004 ,    5.30 ,nondominante1.marker.csv
+166,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec005 ,    5.73 ,nondominante1.marker.csv
+167,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec006 ,    0.00 ,nondominante1.marker.csv
+168,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec001 ,    9.98 ,dominante1.marker.csv
+169,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec002 ,   13.49 ,dominante1.marker.csv
+170,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec003 ,    9.98 ,dominante1.marker.csv
+171,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec004 ,    9.99 ,dominante1.marker.csv
+172,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec005 ,   10.38 ,dominante1.marker.csv
+173,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec006 ,    0.00 ,dominante1.marker.csv
+174,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec001 ,    4.34 ,nondominante2.marker.csv
+175,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec002 ,    7.91 ,nondominante2.marker.csv
+176,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec003 ,    5.35 ,nondominante2.marker.csv
+177,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec004 ,    7.01 ,nondominante2.marker.csv
+178,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec005 ,    7.33 ,nondominante2.marker.csv
+179,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec006 ,    0.00 ,nondominante2.marker.csv
+180,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec001 ,   13.48 ,dominante2.marker.csv
+181,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec002 ,   10.96 ,dominante2.marker.csv
+182,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec003 ,   14.43 ,dominante2.marker.csv
+183,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec004 ,   13.54 ,dominante2.marker.csv
+184,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec005 ,   10.78 ,dominante2.marker.csv
+185,008ViYv,F,right,[75-84],non dominant ,08/04/2021,01/1941, Rec006 ,    0.00 ,dominante2.marker.csv
+186,009BoAl,M,left,[75-84],dominant ,09/04/2021,11/1945,,,
+187,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec001 ,    8.24 ,nondominante1.marker.csv
+188,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec002 ,    7.93 ,nondominante1.marker.csv
+189,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec003 ,    6.79 ,nondominante1.marker.csv
+190,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec004 ,    7.50 ,nondominante1.marker.csv
+191,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec005 ,    7.90 ,nondominante1.marker.csv
+192,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec006 ,    0.00 ,nondominante1.marker.csv
+193,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec001 ,    7.34 ,dominante1.marker.csv
+194,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec002 ,    8.21 ,dominante1.marker.csv
+195,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec003 ,    6.18 ,dominante1.marker.csv
+196,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec004 ,    9.49 ,dominante1.marker.csv
+197,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec005 ,    7.42 ,dominante1.marker.csv
+198,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec006 ,    0.00 ,dominante1.marker.csv
+199,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec001 ,    6.58 ,nondominante2.marker.csv
+200,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec002 ,    7.72 ,nondominante2.marker.csv
+201,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec003 ,    8.01 ,nondominante2.marker.csv
+202,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec004 ,    9.12 ,nondominante2.marker.csv
+203,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec005 ,    8.19 ,nondominante2.marker.csv
+204,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec006 ,    0.00 ,nondominante2.marker.csv
+205,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec001 ,    5.99 ,dominante2.marker.csv
+206,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec002 ,    8.20 ,dominante2.marker.csv
+207,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec003 ,    8.82 ,dominante2.marker.csv
+208,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec004 ,    8.99 ,dominante2.marker.csv
+209,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec005 ,    9.33 ,dominante2.marker.csv
+210,010AlCo,F,right,[65-74],non dominant ,13/04/2021,03/1953, Rec006 ,    0.00 ,dominante2.marker.csv
+211,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec001 ,   10.29 ,dominante1.marker.csv
+212,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec002 ,   13.33 ,dominante1.marker.csv
+213,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec003 ,   13.18 ,dominante1.marker.csv
+214,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec004 ,   10.97 ,dominante1.marker.csv
+215,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec005 ,   14.51 ,dominante1.marker.csv
+216,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec006 ,    0.00 ,dominante1.marker.csv
+217,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec001 ,    8.38 ,nondominante1.marker.csv
+218,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec002 ,    9.68 ,nondominante1.marker.csv
+219,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec003 ,    7.71 ,nondominante1.marker.csv
+220,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec004 ,    9.75 ,nondominante1.marker.csv
+221,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec005 ,    9.94 ,nondominante1.marker.csv
+222,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec006 ,    0.00 ,nondominante1.marker.csv
+223,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec001 ,   12.66 ,dominante2.marker.csv
+224,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec002 ,   11.78 ,dominante2.marker.csv
+225,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec003 ,   12.65 ,dominante2.marker.csv
+226,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec004 ,   13.45 ,dominante2.marker.csv
+227,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec005 ,   14.01 ,dominante2.marker.csv
+228,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec006 ,    0.00 ,dominante2.marker.csv
+229,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec001 ,   11.14 ,nondominante2.marker.csv
+230,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec002 ,    9.75 ,nondominante2.marker.csv
+231,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec003 ,    9.07 ,nondominante2.marker.csv
+232,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec004 ,   11.37 ,nondominante2.marker.csv
+233,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec005 ,   10.16 ,nondominante2.marker.csv
+234,011DeVi,M,right,[55-64],dominant ,13/04/2021,12/1964, Rec006 ,    0.00 ,nondominante2.marker.csv
+235,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec001 ,    6.41 ,nondominante1.marker.csv
+236,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec002 ,    6.40 ,nondominante1.marker.csv
+237,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec003 ,    5.69 ,nondominante1.marker.csv
+238,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec004 ,    7.17 ,nondominante1.marker.csv
+239,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec005 ,    7.53 ,nondominante1.marker.csv
+240,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec006 ,    0.00 ,nondominante1.marker.csv
+241,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec001 ,    6.15 ,dominante1.marker.csv
+242,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec002 ,    7.92 ,dominante1.marker.csv
+243,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec003 ,    9.86 ,dominante1.marker.csv
+244,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec004 ,    5.95 ,dominante1.marker.csv
+245,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec005 ,   10.54 ,dominante1.marker.csv
+246,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec006 ,    0.00 ,dominante1.marker.csv
+247,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec001 ,    5.50 ,nondominante2.marker.csv
+248,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec002 ,    5.89 ,nondominante2.marker.csv
+249,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec003 ,    7.01 ,nondominante2.marker.csv
+250,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec004 ,    5.82 ,nondominante2.marker.csv
+251,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec005 ,    8.53 ,nondominante2.marker.csv
+252,012GuNi,F,right,[75-84],non dominant ,13/04/2021,11/1941, Rec006 ,    0.00 ,nondominante2.marker.csv
+253,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec001 ,   10.33 ,dominante1.marker.csv
+254,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec002 ,   13.31 ,dominante1.marker.csv
+255,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec003 ,   11.88 ,dominante1.marker.csv
+256,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec004 ,   13.52 ,dominante1.marker.csv
+257,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec005 ,   14.69 ,dominante1.marker.csv
+258,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec006 ,    0.00 ,dominante1.marker.csv
+259,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec001 ,    9.92 ,nondominante1.marker.csv
+260,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec002 ,   12.44 ,nondominante1.marker.csv
+261,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec003 ,    8.44 ,nondominante1.marker.csv
+262,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec004 ,   10.45 ,nondominante1.marker.csv
+263,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec005 ,   14.43 ,nondominante1.marker.csv
+264,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec006 ,    0.00 ,nondominante1.marker.csv
+265,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec001 ,   10.79 ,dominante2.marker.csv
+266,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec002 ,   14.95 ,dominante2.marker.csv
+267,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec003 ,   12.94 ,dominante2.marker.csv
+268,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec004 ,   16.17 ,dominante2.marker.csv
+269,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec005 ,   16.60 ,dominante2.marker.csv
+270,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec006 ,    0.00 ,dominante2.marker.csv
+271,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec001 ,   13.32 ,nondominante2.marker.csv
+272,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec002 ,   13.18 ,nondominante2.marker.csv
+273,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec003 ,   13.34 ,nondominante2.marker.csv
+274,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec004 ,   15.09 ,nondominante2.marker.csv
+275,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec005 ,   10.58 ,nondominante2.marker.csv
+276,013JoGe,M,right,[75-84],dominant ,13/04/2021,07/1936, Rec006 ,    0.00 ,nondominante2.marker.csv
+277,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec001 ,   12.89 ,nondominante1.marker.csv
+278,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec002 ,   14.11 ,nondominante1.marker.csv
+279,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec003 ,   13.54 ,nondominante1.marker.csv
+280,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec004 ,   13.51 ,nondominante1.marker.csv
+281,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec005 ,   13.57 ,nondominante1.marker.csv
+282,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec006 ,    0.00 ,nondominante1.marker.csv
+283,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec001 ,   16.10 ,dominante1.marker.csv
+284,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec002 ,   13.29 ,dominante1.marker.csv
+285,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec003 ,   14.12 ,dominante1.marker.csv
+286,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec004 ,   12.24 ,dominante1.marker.csv
+287,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec005 ,   16.50 ,dominante1.marker.csv
+288,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec006 ,    0.00 ,dominante1.marker.csv
+289,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec001 ,   15.30 ,nondominante2.marker.csv
+290,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec002 ,   15.87 ,nondominante2.marker.csv
+291,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec003 ,   12.22 ,nondominante2.marker.csv
+292,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec004 ,   16.99 ,nondominante2.marker.csv
+293,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec005 ,   17.20 ,nondominante2.marker.csv
+294,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec006 ,    0.00 ,nondominante2.marker.csv
+295,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec001 ,   11.92 ,dominante2.marker.csv
+296,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec002 ,    4.62 ,dominante2.marker.csv
+297,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec003 ,   17.15 ,dominante2.marker.csv
+298,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec004 ,   17.76 ,dominante2.marker.csv
+299,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec005 ,   17.70 ,dominante2.marker.csv
+300,014MoMa,F,ambidextrous,[65-74],left arm ,14/04/2021,06/1949, Rec006 ,    0.00 ,dominante2.marker.csv
+301,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec001 ,    9.72 ,dominante1.marker.csv
+302,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec002 ,   12.24 ,dominante1.marker.csv
+303,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec003 ,   13.87 ,dominante1.marker.csv
+304,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec004 ,   10.76 ,dominante1.marker.csv
+305,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec005 ,   10.99 ,dominante1.marker.csv
+306,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec006 ,    0.00 ,dominante1.marker.csv
+307,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec001 ,   11.02 ,nondominante1.marker.csv
+308,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec002 ,   11.26 ,nondominante1.marker.csv
+309,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec003 ,    5.47 ,nondominante1.marker.csv
+310,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec004 ,   10.51 ,nondominante1.marker.csv
+311,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec005 ,   12.79 ,nondominante1.marker.csv
+312,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec006 ,    0.00 ,nondominante1.marker.csv
+313,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec001 ,   11.53 ,dominante2.marker.csv
+314,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec002 ,   17.90 ,dominante2.marker.csv
+315,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec003 ,   12.56 ,dominante2.marker.csv
+316,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec004 ,   15.04 ,dominante2.marker.csv
+317,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec005 ,   14.54 ,dominante2.marker.csv
+318,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec006 ,    0.00 ,dominante2.marker.csv
+319,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec001 ,   16.18 ,nondominante2.marker.csv
+320,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec002 ,    9.85 ,nondominante2.marker.csv
+321,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec003 ,   11.22 ,nondominante2.marker.csv
+322,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec004 ,   12.32 ,nondominante2.marker.csv
+323,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec005 ,   10.18 ,nondominante2.marker.csv
+324,015GiRi,F,right,[65-74],dominant ,14/04/2021,04/1948, Rec006 ,    0.00 ,nondominante2.marker.csv
+325,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec001 ,    5.45 ,nondominante1.marker.csv
+326,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec002 ,    5.49 ,nondominante1.marker.csv
+327,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec003 ,    7.23 ,nondominante1.marker.csv
+328,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec004 ,    8.72 ,nondominante1.marker.csv
+329,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec005 ,    7.14 ,nondominante1.marker.csv
+330,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec006 ,    0.00 ,nondominante1.marker.csv
+331,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec001 ,    4.88 ,dominante1.marker.csv
+332,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec002 ,    6.08 ,dominante1.marker.csv
+333,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec003 ,    5.29 ,dominante1.marker.csv
+334,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec004 ,    6.18 ,dominante1.marker.csv
+335,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec005 ,    6.96 ,dominante1.marker.csv
+336,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec006 ,    0.00 ,dominante1.marker.csv
+337,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec001 ,    8.18 ,nondominante2.marker.csv
+338,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec002 ,    8.66 ,nondominante2.marker.csv
+339,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec003 ,    8.72 ,nondominante2.marker.csv
+340,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec004 ,    9.31 ,nondominante2.marker.csv
+341,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec005 ,    9.90 ,nondominante2.marker.csv
+342,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec006 ,    0.00 ,nondominante2.marker.csv
+343,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec001 ,    6.74 ,dominante2.marker.csv
+344,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec002 ,    8.98 ,dominante2.marker.csv
+345,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec003 ,    7.21 ,dominante2.marker.csv
+346,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec004 ,    9.02 ,dominante2.marker.csv
+347,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec005 ,    7.39 ,dominante2.marker.csv
+348,016GiMa,M,right,[75-84],non dominant,14/04/2021,12/1941, Rec006 ,    0.00 ,dominante2.marker.csv
+349,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec001 ,    7.66 ,dominante1.marker.csv
+350,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec002 ,   11.33 ,dominante1.marker.csv
+351,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec003 ,   12.43 ,dominante1.marker.csv
+352,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec004 ,   14.41 ,dominante1.marker.csv
+353,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec005 ,   13.82 ,dominante1.marker.csv
+354,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec006 ,    0.00 ,dominante1.marker.csv
+355,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec001 ,   10.09 ,nondominante1.marker.csv
+356,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec002 ,    9.82 ,nondominante1.marker.csv
+357,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec003 ,   10.26 ,nondominante1.marker.csv
+358,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec004 ,   13.13 ,nondominante1.marker.csv
+359,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec005 ,   10.94 ,nondominante1.marker.csv
+360,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec006 ,    0.00 ,nondominante1.marker.csv
+361,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec001 ,   12.38 ,dominante2.marker.csv
+362,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec002 ,   14.04 ,dominante2.marker.csv
+363,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec003 ,   13.81 ,dominante2.marker.csv
+364,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec004 ,   14.15 ,dominante2.marker.csv
+365,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec005 ,   13.71 ,dominante2.marker.csv
+366,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec006 ,    0.00 ,dominante2.marker.csv
+367,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec001 ,   10.99 ,nondominante2.marker.csv
+368,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec002 ,   11.45 ,nondominante2.marker.csv
+369,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec003 ,   11.15 ,nondominante2.marker.csv
+370,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec004 ,   13.13 ,nondominante2.marker.csv
+371,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec005 ,   10.41 ,nondominante2.marker.csv
+372,017BoAr,F,right,[65-74],dominant,15/04/2021,03/1954, Rec006 ,    0.00 ,nondominante2.marker.csv
+373,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec001 ,    7.52 ,dominante1.marker.csv
+374,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec002 ,    7.78 ,dominante1.marker.csv
+375,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec003 ,   11.38 ,dominante1.marker.csv
+376,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec004 ,    9.39 ,dominante1.marker.csv
+377,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec005 ,    9.81 ,dominante1.marker.csv
+378,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec006 ,    0.00 ,dominante1.marker.csv
+379,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec001 ,    9.18 ,nondominante1.marker.csv
+380,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec002 ,    8.15 ,nondominante1.marker.csv
+381,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec003 ,    8.54 ,nondominante1.marker.csv
+382,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec004 ,    7.62 ,nondominante1.marker.csv
+383,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec005 ,    6.64 ,nondominante1.marker.csv
+384,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec006 ,    0.00 ,nondominante1.marker.csv
+385,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec001 ,    6.27 ,nondominante2.marker.csv
+386,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec002 ,    8.27 ,nondominante2.marker.csv
+387,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec003 ,    7.03 ,nondominante2.marker.csv
+388,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec004 ,    7.47 ,nondominante2.marker.csv
+389,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec005 ,    7.13 ,nondominante2.marker.csv
+390,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec006 ,    0.00 ,nondominante2.marker.csv
+391,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec001 ,   10.15 ,dominante2.marker.csv
+392,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec002 ,    9.52 ,dominante2.marker.csv
+393,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec003 ,    9.97 ,dominante2.marker.csv
+394,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec004 ,   10.38 ,dominante2.marker.csv
+395,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec005 ,   10.51 ,dominante2.marker.csv
+396,018ViJe,M,right,[75-84],non dominant ,16/04/2021,01/1941, Rec006 ,    0.00 ,dominante2.marker.csv
+397,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec001 ,    5.64 ,dominante1.marker.csv
+398,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec002 ,    8.58 ,dominante1.marker.csv
+399,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec003 ,    9.87 ,dominante1.marker.csv
+400,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec004 ,    8.98 ,dominante1.marker.csv
+401,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec005 ,    8.08 ,dominante1.marker.csv
+402,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec006 ,    0.00 ,dominante1.marker.csv
+403,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec001 ,    8.62 ,nondominante1.marker.csv
+404,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec002 ,    9.11 ,nondominante1.marker.csv
+405,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec003 ,   10.99 ,nondominante1.marker.csv
+406,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec004 ,    7.43 ,nondominante1.marker.csv
+407,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec005 ,    9.55 ,nondominante1.marker.csv
+408,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec006 ,    0.00 ,nondominante1.marker.csv
+409,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec001 ,    7.32 ,nondominante2.marker.csv
+410,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec002 ,    8.64 ,nondominante2.marker.csv
+411,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec003 ,    7.09 ,nondominante2.marker.csv
+412,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec004 ,    9.12 ,nondominante2.marker.csv
+413,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec005 ,    7.53 ,nondominante2.marker.csv
+414,019LeGe,M,right,[65-74],dominant,19/04/2021,01/1947, Rec006 ,    0.00 ,nondominante2.marker.csv
+415,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec001 ,   12.96 ,nondominante1.marker.csv
+416,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec002 ,   10.44 ,nondominante1.marker.csv
+417,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec003 ,   11.00 ,nondominante1.marker.csv
+418,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec004 ,   11.53 ,nondominante1.marker.csv
+419,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec005 ,   13.36 ,nondominante1.marker.csv
+420,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec006 ,    0.00 ,nondominante1.marker.csv
+421,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec001 ,   12.12 ,dominante1.marker.csv
+422,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec002 ,   16.47 ,dominante1.marker.csv
+423,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec003 ,   20.34 ,dominante1.marker.csv
+424,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec004 ,   18.09 ,dominante1.marker.csv
+425,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec005 ,   14.34 ,dominante1.marker.csv
+426,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec006 ,    0.00 ,dominante1.marker.csv
+427,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec001 ,    9.92 ,nondominante2.marker.csv
+428,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec002 ,   15.27 ,nondominante2.marker.csv
+429,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec003 ,   11.79 ,nondominante2.marker.csv
+430,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec004 ,   11.89 ,nondominante2.marker.csv
+431,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec005 ,   14.58 ,nondominante2.marker.csv
+432,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec006 ,    0.00 ,nondominante2.marker.csv
+433,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec001 ,   16.79 ,dominante2.marker.csv
+434,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec002 ,   15.46 ,dominante2.marker.csv
+435,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec003 ,   16.94 ,dominante2.marker.csv
+436,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec004 ,   19.60 ,dominante2.marker.csv
+437,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec005 ,   21.08 ,dominante2.marker.csv
+438,020LeMa,F,right,[65-74],non dominant ,19/04/2021,, Rec006 ,    0.00 ,dominante2.marker.csv
